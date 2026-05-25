@@ -1,6 +1,6 @@
 # Data Analysis Notebooks
-
-Two data analysis projects using Python — Pandas, Matplotlib, Seaborn.
+*Advanced Numpy
+*Two data analysis projects using Python — Pandas, Matplotlib, Seaborn.
 
 ## Notebooks
 
