@@ -4,7 +4,7 @@
 
 ## Notebooks
 
-### Anime Dataset Analysis
+### Dataset Analysis of csv files , excel files etc
 - Loads and explores an anime CSV dataset
 - EDA using Pandas — shape, head, missing values
 - Visualisations using Matplotlib and Seaborn
@@ -15,7 +15,7 @@
 - Visual insights using Seaborn plots
 
 ## Tech Stack
-Python · Pandas · NumPy · Matplotlib · Seaborn
+Python · Pandas · NumPy · Matplotlib · Seaborn . Statistics
 
 ## Author
 **Arzaan** | NIT Hamirpur | EE First Year
