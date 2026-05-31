@@ -31,4 +31,4 @@ This is a known GitHub limitation with large or output-heavy notebooks.
 Python · Pandas · NumPy · Matplotlib · Seaborn · Statistics
 
 ## Author
-**Arzaan** | NIT Hamirpur | EE First Year
+**Arzaan** 
